@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Zadatak2, Configuration: Debug Win32 ------
+1>  zadatak 3.cpp
+1>  Zadatak2.vcxproj -> C:\Users\User\Documents\IvanRoguljObjektno\OP\Vjezba2\Zadatak3\Debug\Zadatak2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
