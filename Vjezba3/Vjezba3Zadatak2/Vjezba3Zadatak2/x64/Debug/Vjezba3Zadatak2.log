@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Rogulj\Documents\OP\Vjezba3\Vjezba3Zadatak2\Vjezba3Zadatak2\main.cpp(8,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Vjezba3Zadatak2.vcxproj -> C:\Users\Rogulj\Documents\OP\Vjezba3\Vjezba3Zadatak2\x64\Debug\Vjezba3Zadatak2.exe

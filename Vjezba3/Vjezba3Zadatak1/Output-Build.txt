@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Vjezba3Zadatak1, Configuration: Debug x64 ------
+1>main.cpp
+1>C:\Users\Rogulj\Documents\OP\Vjezba3\Vjezba3Zadatak1\Vjezba3Zadatak1\main.cpp(9,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>C:\Users\Rogulj\Documents\OP\Vjezba3\Vjezba3Zadatak1\Vjezba3Zadatak1\main.cpp(13,60): warning C4834: discarding return value of function with 'nodiscard' attribute
+1>Vjezba3Zadatak1.vcxproj -> C:\Users\Rogulj\Documents\OP\Vjezba3\Vjezba3Zadatak1\x64\Debug\Vjezba3Zadatak1.exe
+1>Done building project "Vjezba3Zadatak1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
