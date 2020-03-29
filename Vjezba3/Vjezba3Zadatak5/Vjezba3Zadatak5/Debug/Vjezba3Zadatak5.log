@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Vjezba3Zadatak5\main.cpp(35,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Vjezba3Zadatak5\main.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Vjezba3Zadatak5\main.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+  Vjezba3Zadatak5.vcxproj -> C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Debug\Vjezba3Zadatak5.exe

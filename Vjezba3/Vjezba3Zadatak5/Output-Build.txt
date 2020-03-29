@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: Vjezba3Zadatak5, Configuration: Debug Win32 ------
+1>main.cpp
+1>C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Vjezba3Zadatak5\main.cpp(37,11): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Vjezba3Zadatak5\main.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Vjezba3Zadatak5\main.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+1>Vjezba3Zadatak5.vcxproj -> C:\Users\Rogulj\source\repos\Vjezba3Zadatak5\Debug\Vjezba3Zadatak5.exe
+1>Done building project "Vjezba3Zadatak5.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
