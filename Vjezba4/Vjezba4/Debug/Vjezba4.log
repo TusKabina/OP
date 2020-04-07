@@ -1,0 +1,11 @@
+﻿  igrac.cpp
+C:\Users\Rogulj\Documents\OP\Vjezba4\Vjezba4\igrac.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rogulj\Documents\OP\Vjezba4\Vjezba4\igrac.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rogulj\Documents\OP\Vjezba4\Vjezba4\igrac.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+  karta.cpp
+  main.cpp
+  spil.cpp
+C:\Users\Rogulj\Documents\OP\Vjezba4\Vjezba4\spil.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+  treseta.cpp
+  Generating Code...
+  Vjezba4.vcxproj -> C:\Users\Rogulj\Documents\OP\Vjezba4\Debug\Vjezba4.exe
