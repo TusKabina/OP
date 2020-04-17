@@ -1,0 +1,13 @@
+﻿  Board.cpp
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(23,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(24,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(37,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(38,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(52,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(53,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(54,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Vjezba5Zadatak2\Board.cpp(55,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  point.cpp
+  Generating Code...
+  Vjezba5Zadatak2.vcxproj -> C:\Users\Rogulj\Documents\OP\Vjezba5\Vjezba5Zadatak2\Debug\Vjezba5Zadatak2.exe

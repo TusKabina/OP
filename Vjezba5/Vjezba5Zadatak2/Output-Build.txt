@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Vjezba5Zadatak2, Configuration: Debug Win32 ------
+1>main.cpp
+1>Vjezba5Zadatak2.vcxproj -> C:\Users\Rogulj\source\repos\Vjezba5Zadatak2\Debug\Vjezba5Zadatak2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
