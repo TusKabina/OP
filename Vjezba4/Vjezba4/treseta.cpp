@@ -1,43 +1,42 @@
 #include "treseta.h"
-void Treseta::printBodove()
+void Treseta::printPoints()
 {
-
-	for (int i = 0; i < brojIgraca; i++)
+	for (int i = 0; i < PlayerNumber; i++)
 	{
-		igraci[i].printIme();
-		cout << igraci[i].getBodovi() << endl;
+		players[i].printName();
+		cout << players[i].getPoints() << endl;
 	}
 }
-void Treseta::printIgrace()
+void Treseta::printPlayers()
 {
-	for (int i = 0; i < brojIgraca; i++)
+	for (int i = 0; i < PlayerNumber; i++)
 	{
-		igraci[i].printIme();
+		players[i].printName();
 	}
 }
-Treseta::Treseta(int brojIgraca, vector<string> imenaIgraca)
+Treseta::Treseta(int PlayerNumber, vector<string> playerNames)
 {
-	this->brojIgraca = brojIgraca;
+	cout << "Constructor" << endl;
+	this->PlayerNumber = PlayerNumber;
 	deck.shuffleDeck();
-	for (int i = 0; i < brojIgraca; i++)
+	for (int i = 0; i < PlayerNumber; i++)
 	{
-		igraci.push_back(imenaIgraca[i]);
+		players.push_back(playerNames[i]);
 	}
-	
-	for (int igrac = 0; igrac < brojIgraca; igrac++)
+	for (int player = 0; player < PlayerNumber; player++)
 	{
-
-		vector<Karta> ruke = deck.deal();
-		igraci[igrac].dobijRuku(ruke);
-		igraci[igrac].akuzaj();
-		igraci[igrac].napolitana();
-		igraci[igrac].printIme();
+		vector<Card> hands = deck.deal();
+		players[player].getHand(hands);
+		players[player].akuzaj();
+		players[player].napolitana();
+		players[player].printName();
 		cout << endl;
-		igraci[igrac].printRuka();
+		players[player].printHand();
 		cout << endl;
-		
-
 	}
-	printBodove();
-
+	printPoints();
+}
+Treseta::~Treseta()
+{
+	cout << "Destructor" << endl;
 }

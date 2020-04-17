@@ -1,28 +1,23 @@
 #include "treseta.h"
-
-
-
 int main()
 {
-	vector<string> imena;
-	int broj;
-	
-	cout << "2 ili 4 igraca?" << endl;
-	cin >> broj;
-	if (broj != 2 && broj != 4)
+	vector<string> names;
+	int number;
+	cout << "2 or 4 players?" << endl;
+	cin >> number;
+	if (number != 2 && number != 4)
 	{
-		cout << "Unijeli ste nedozvoljen broj igraca" << endl;
+		cout << "INVALID INPUT!" << endl;
 		exit(EXIT_FAILURE);
 	}
-	int brojac = 1;
-	while (brojac <= broj)
+	int counter = 1;
+	while (counter <= number)
 	{
-		cout << "ime "  << brojac << ". igraca" << endl;
+		cout << "Name of the  "  << counter << ". player" << endl;
 		string name;
 		cin >> name;
-		imena.push_back(name);
-		brojac++;
+		names.push_back(name);
+		counter++;
 	}
-	Treseta treseta(broj, imena);
-
+	Treseta treseta(number, names);
 }

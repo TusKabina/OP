@@ -1,14 +1,14 @@
 #pragma once
-#include "igrac.h"
-
+#include "player.h"
 class Treseta
 {
 	private:
-		int brojIgraca;
-		Spil deck;
-		vector<Igrac> igraci;
+		int PlayerNumber;
+		Deck deck;
+		vector<Player> players;
 	public:
-		void printBodove();
-		void printIgrace();
-		Treseta(int brojIgraca, vector<string> imenaIgraca);
+		void printPoints();
+		void printPlayers();
+		Treseta(int PlayerNumber, vector<string> playerNames);
+		~Treseta();
 };
