@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: Vjezba6 Zadatak2, Configuration: Debug Win32 ------
+1>game.cpp
+1>main.cpp
+1>C:\Users\Rogulj\source\repos\Vjezba6 Zadatak2\Vjezba6 Zadatak2\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>Generating Code...
+1>Vjezba6 Zadatak2.vcxproj -> C:\Users\Rogulj\source\repos\Vjezba6 Zadatak2\Debug\Vjezba6 Zadatak2.exe
+1>Done building project "Vjezba6 Zadatak2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
