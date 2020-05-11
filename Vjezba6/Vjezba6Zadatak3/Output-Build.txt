@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Vjezba6Zadatak3, Configuration: Debug Win32 ------
+1>Game.cpp
+1>C:\Users\Rogulj\source\repos\Vjezba6Zadatak3\Vjezba6Zadatak3\Game.cpp(135,11): warning C4101: 'parOrNepar': unreferenced local variable
+1>Vjezba6Zadatak3.vcxproj -> C:\Users\Rogulj\source\repos\Vjezba6Zadatak3\Debug\Vjezba6Zadatak3.exe
+1>Done building project "Vjezba6Zadatak3.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

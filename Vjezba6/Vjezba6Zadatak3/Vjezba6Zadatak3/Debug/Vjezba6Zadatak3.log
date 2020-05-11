@@ -1,0 +1,7 @@
+﻿  botPlayer.cpp
+  Game.cpp
+C:\Users\Rogulj\Documents\OP\Vjezba6\Vjezba6Zadatak3\Vjezba6Zadatak3\Game.cpp(137,11): warning C4101: 'parOrNepar': unreferenced local variable
+  main.cpp
+C:\Users\Rogulj\Documents\OP\Vjezba6\Vjezba6Zadatak3\Vjezba6Zadatak3\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Vjezba6Zadatak3.vcxproj -> C:\Users\Rogulj\Documents\OP\Vjezba6\Vjezba6Zadatak3\Debug\Vjezba6Zadatak3.exe
